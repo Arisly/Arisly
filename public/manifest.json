@@ -1,6 +1,6 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "Aris Lee",
+  "short_name": "Arisly",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -17,12 +17,7 @@
       "type": "image/png",
       "sizes": "96x96"
     },
-    {
-      "src": "/apple-touch-icon.png",
-      "type": "image/png",
-      "sizes": "180x180"
-    },
-    
+  
   ],
   "theme_color": "#F898B9",
   "background_color": "#ffffff",
