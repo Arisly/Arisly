@@ -39,13 +39,10 @@ const socialLinks: SocialLink[] = [
     name: 'linkedin',
     href: `https://www.linkedin.com/in/${config.linkedin}`,
     title: `LinkedIn ${config.author}`,
-    icon: (
-       {
-      "src": "/download.jpg",
-      "type": "image/jpg",
-      "sizes": "88x88"
-    },
-    )
+    icon: 
+       " url(Arisly/components/download.jpg)"
+    
+    
   }
 ].filter(Boolean)
 
