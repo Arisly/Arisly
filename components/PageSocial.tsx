@@ -40,7 +40,7 @@ const socialLinks: SocialLink[] = [
     href: `https://www.linkedin.com/in/${config.linkedin}`,
     title: `LinkedIn ${config.author}`,
     icon: 
-       " url(Arisly/components/download.jpg)"
+       "image：url(Arisly/components/download.jpg)"
     
     
   }
